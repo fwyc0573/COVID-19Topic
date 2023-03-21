@@ -1,5 +1,5 @@
 # HurryJiangNan
-My undergraduate work, a Unity-based 3D game based on the story of the spread of COVID-19 on campus, implemented in C#.
+My undergraduate work, a Unity-based 3D game based on the story of the spread of COVID-19 on campus, implemented by C#.
 
 Demonstration demos: 
 
