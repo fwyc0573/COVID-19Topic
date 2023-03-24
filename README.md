@@ -1,7 +1,7 @@
 # Cellular Automaton & Game JiangNanHurry
 
 ## Introduction
-My zero-copy undergraduate work (award grade A), a Processing-based cellular automaton and a Unity-based 3D game around COVID-19 topic, implemented by C# and Java.
+My zero-copy undergraduate work (awarded grade A), a Processing-based cellular automaton and a Unity-based 3D game around COVID-19 topic, implemented by C# and Java.
 
 ## Video demonstration
 
