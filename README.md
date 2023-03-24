@@ -1,4 +1,4 @@
-# HurryJiangNan
+# HurryJiangNan & Cellular Automaton
 My undergraduate work (award grade A), a Unity-based 3D game and a Processing-based cellular automaton around the COVID-19 topic, implemented by C# and Java.
 
 Demonstration demos: 
