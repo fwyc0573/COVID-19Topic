@@ -6,6 +6,7 @@ My undergraduate work (award grade A), a Unity-based 3D game and a Processing-ba
 ## Video demonstration
 
 **Cellular Automaton** -> https://www.bilibili.com/video/BV1F54y1R7UC
+
 **Game HurryJiangNan** -> https://www.bilibili.com/video/BV1Xp4y1D76t
 
 <!-- ![screen2](https://github.com/fwyc0573/HurryJiangNan/blob/main/fig/fig1.png) -->
